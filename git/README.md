@@ -1,7 +1,10 @@
+# Github Flow
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'gitGraph': {'showBranches': true,'showCommitLabel': false}} }%%
 
 gitGraph
+    commit
     commit
     branch develop
     checkout develop
