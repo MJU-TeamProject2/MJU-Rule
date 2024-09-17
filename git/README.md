@@ -61,9 +61,7 @@ Live Server에 올라가는 코드입니다. `develop branch`에서만 merge를 
 ## Commit Convention
 
 ```
-<type>(task id): <description>
-
-ex) feat(RVCV-14): Spring Security 의존성을 Gradle에 추가한다
+ex) feat:로그인 페이지를 추가한다.
 ```
 
 ### Type
