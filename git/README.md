@@ -49,11 +49,9 @@ Live Server에 올라가는 코드입니다. `develop branch`에서만 merge를 
 
 하나의 Backlog 단위로 생성되는 Branch 입니다.
 
-`epic branch` 로부터 생성된 branch 일 때에는 `epic branch` 로 Pull Request를 거쳐 Merge 해야 합니다.
-
 `develop branch` 로부터 생성된 branch 일 때는 `develop branch` 로 Pull Request를 거쳐 Merge 해야 합니다.
 
-`feature branch`는 branch 이름 세팅 시 `Backlog Database` 의 백로그 ID와 간단한 요약을 접미사로 추가해야 합니다.
+`feature branch`는 branch 이름 세팅 시 `Backlog` 의 간단한 요약을 접미사로 추가해야 합니다.
 
 > ex) `feat-14-spring-security-config` - Spring Security 기술을 도입하고, 설정한다.
 > 
