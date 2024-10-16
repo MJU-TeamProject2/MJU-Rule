@@ -15,7 +15,7 @@ gitGraph
     commit
     commit
     checkout develop
-    merge feat-xxxx
+    merge feat-xxxx tag:"squash"
     commit
     checkout main
     merge develop
